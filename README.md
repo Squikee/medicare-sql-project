@@ -1,2 +1,2 @@
 # medicare-sql-project
-Analyzing Medicare data using PostgreSQL
+This project analyzes Medicare data using PostgreSQL.  It demonstrates advanced SQL skills, including subqueries, aggregate functions, and stored procedures.
